@@ -1,5 +1,9 @@
 # Solidworks Workshop 2021
-* SolidWorks is a very versatile industrial software for designing varied type components. In this workshop we will be teaching you the basics of designing in Solidworks 2021.  
+* SolidWorks is a very versatile industrial software for designing varied type components. In this workshop we will be teaching you the basics of designing in Solidworks 2021 by going through the design of a basic Quadruped.  
+<p align="center">
+  <img src="./assets/Bot.png" width="800"/>
+</p>
+
 # Installation Requirements
 * There are some important requirements for the installation of Solidworks 2021
   * Laptop requirements - 
