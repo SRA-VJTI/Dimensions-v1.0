@@ -11,10 +11,10 @@
 |     Parts    |          Description          |
 | ------------ | ----------------------------- |
 | <p align="center">
-  <img src="./assets/QUADBASE.png" width="200"/> | Quad_base - This is the base of the bot,</br> which is connected to all the four legs through revolute joints|
-  <img src="./assets/QUADMID.png" width="200"/> | Quad_Mid - This is the shoulder link of the bot,</br> which is the connecting link between the base and the Leg|  
-   <img src="./assets/QUADLEG.png" width="200"/> | Quad_Leg - This is part is the Leg of the bot|   
-   <img src="./assets/QUADFOOT.png" width="200"/> | Quad_Foot - This part sits beneath the leg and </br> has a material which provides a proper grip the the bot|  
+  <img src="./assets/QUADBASE.png" width="200"/> | Quad_base - This is the base of the bot, which is </br> connected to all the four legs through revolute joints.|
+  <img src="./assets/QUADMID.png" width="200"/> | Quad_Mid - This is the shoulder link of the bot, which is the </br> connecting link between the base and the Leg.|  
+   <img src="./assets/QUADLEG.png" width="200"/> | Quad_Leg - This is part is the Leg of the bot.|   
+   <img src="./assets/QUADFOOT.png" width="200"/> | Quad_Foot - This part sits beneath the leg and has a </br> material which provides a proper grip the the bot.|  
 </p>   
 
 # Installation Requirements
@@ -42,5 +42,5 @@
   * Refer the following playlists to sharpen you skills in SolidWorks
   * [Tutorial](https://www.youtube.com/watch?v=Ulttc_2p4DY&list=PLrOFa8sDv6jcp8E3ayUFZ4iNI8uuPjXHe)
   * [Exercises](https://www.youtube.com/watch?v=vf2B0kKJeyM&list=PLzXbArJFNdVX0IDxpwqzqqB5mP2sWTjzq)
+  * [Sheet Metal Tutorials](https://www.youtube.com/watch?v=6qKACgOstgI&list=PLkMYhICFMsGabiRA9g-BwA4a8okUFFO_5)
   * [Advanced Tutorial](https://www.youtube.com/watch?v=k39jWp3PafM&list=PLROUP1bV8REQ3uB7OTT3GunhdOOOfvLFz)
-  * []
