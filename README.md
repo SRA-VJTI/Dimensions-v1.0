@@ -1,8 +1,21 @@
-# Solidworks Workshop 2021
+# Dimensions Workshop 2021
 * SolidWorks is a very versatile industrial software for designing varied type components. In this workshop we will be teaching you the basics of designing in Solidworks 2021 by going through the design of a basic Quadruped.  
 <p align="center">
-  <img src="./assets/Bot.png" width="800"/>
+  <img src="./assets/Bot.png" width="700"/>
 </p>
+
+# Part Descriptions
+* The bot contains a total of 4 components which are as listed in the following table :
+
+
+|     Parts    |          Description          |
+| ------------ | ----------------------------- |
+| <p align="center">
+  <img src="./assets/QUADBASE.png" width="200"/> | Quad_base - This is the base of the bot,</br> which is connected to all the four legs through revolute joints|
+  <img src="./assets/QUADMID.png" width="200"/> | Quad_Mid - This is the shoulder link of the bot,</br> which is the connecting link between the base and the Leg|  
+   <img src="./assets/QUADLEG.png" width="200"/> | Quad_Leg - This is part is the Leg of the bot|   
+   <img src="./assets/QUADFOOT.png" width="200"/> | Quad_Foot - This part sits beneath the leg and </br> has a material which provides a proper grip the the bot|  
+</p>   
 
 # Installation Requirements
 * There are some important requirements for the installation of Solidworks 2021
