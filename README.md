@@ -37,3 +37,10 @@
   * If you have any other Antivirus Program in your PC, then Turn-off their protection.
   * Refer [this video](https://www.youtube.com/watch?v=YwwOqODxwq8) for the further installation instructions
   * When installation is completed, you can “Turn-On Everything.”
+
+  # Additional Materials
+  * Refer the following playlists to sharpen you skills in SolidWorks
+  * [Tutorial](https://www.youtube.com/watch?v=Ulttc_2p4DY&list=PLrOFa8sDv6jcp8E3ayUFZ4iNI8uuPjXHe)
+  * [Exercises](https://www.youtube.com/watch?v=vf2B0kKJeyM&list=PLzXbArJFNdVX0IDxpwqzqqB5mP2sWTjzq)
+  * [Advanced Tutorial](https://www.youtube.com/watch?v=k39jWp3PafM&list=PLROUP1bV8REQ3uB7OTT3GunhdOOOfvLFz)
+  * []
